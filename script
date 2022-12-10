@@ -1,0 +1,2 @@
+gcc cfs_sched.c -o cfs
+./cfs
